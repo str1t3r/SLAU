@@ -7,6 +7,8 @@
 *.jar
 *.war
 *.ear
+*.class
+.out/*
 
 #Idea project files
 *.iml
